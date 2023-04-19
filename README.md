@@ -60,8 +60,6 @@ I have a passion for:
 - Creativity
 - Attention to detail
 - Continuous learning
-- [List your technical skills, e.g. programming languages, machine learning frameworks, data analysis tools, etc.]
-- [List your soft skills, e.g. communication, teamwork, problem-solving, etc.]
 
 # Projects
 
