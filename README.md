@@ -1,18 +1,13 @@
 # Hello, I'm Abdul Hafeez
 
-I'm a data scientist, machine learning, and AI engineer with expertise in: 
+As a freelance Data Scientist with over 3 years of experience in prompt engineering, AI, data analytics, and machine learning, I specialize in developing predictive models and leveraging data to drive business insights. My expertise in statistical modeling and machine learning techniques, combined with my experience in prompt engineering and AI, has helped me develop solutions for a range of industries, from finance to healthcare. I am passionate about solving complex problems with data and collaborating with cross-functional teams to drive innovation. I am seeking new opportunities to apply my skills and continue to grow in the field of data science.Expertise in: 
 
-1. Machine Learning
-2. Deep Learning
-3. Natural Language Processing (NLP)
-4. Computer Vision
-5. Data Analytics
-6. Data Visualization
-7. Data Engineering
-8. Cloud Computing
-9. Programming Languages (Python, R, Java, SQL, etc.)
-10. Data Science Tools (TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, etc.)
-11. Prompt Engineering
+1. Developing and deploying machine learning models, including deep learning, NLP, and computer vision
+2. Conducting data analytics and creating visualizations to communicate insights effectively
+3. Working with a variety of programming languages, including Python, R, Java, and SQL, to manipulate and analyze data
+4. Using data science tools such as TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, and others to build and optimize models
+5. Designing and implementing data pipelines and managing cloud computing resources
+6. Applying prompt engineering techniques to optimize natural language generation and processing
 
 I have a passion for: 
 
