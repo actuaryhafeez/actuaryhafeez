@@ -12,6 +12,7 @@ I'm a data scientist, machine learning, and AI engineer with expertise in:
 8. Cloud Computing
 9. Programming Languages (Python, R, Java, SQL, etc.)
 10. Data Science Tools (TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, etc.)
+11. Prompt Engineering
 
 I have a passion for: 
 
